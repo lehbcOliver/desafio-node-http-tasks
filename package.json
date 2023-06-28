@@ -1,0 +1,13 @@
+{
+  "name": "conceitos-node-todo-http",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
